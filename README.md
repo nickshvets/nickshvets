@@ -5,3 +5,7 @@
 - 🍎 Know more about me at nickshvets.pro
 - 🍀 I'm currently learning C#.
 - 🎮 I love Coding, Music, and Video Games.
+
+## Some Contributions
+- [Solution to GitHub Actions Issue](https://github.com/orgs/community/discussions/141548#discussioncomment-10947606)
+- [Helped Improve Webhook Throttling and Deduplication](https://github.com/orgs/community/discussions/141599#discussioncomment-10952782)
